@@ -8,3 +8,4 @@ textos y los mezcló de tal manera que logró hacer un libro de textos especimen
   creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más 
   recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual 
   incluye versiones de Lorem Ipsum.
+  cabio de la nueva rama
